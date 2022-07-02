@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Static Template</title>
+  </head>
+  <body>
+    <div class="content">
+      <p class="text">ASTRAL HUB DISCORD SERVER (UP, JOIN NOW✅)</p>
+      <a
+        style="display: inline-block;"
+        class="link listlink"
+        href="https://discord.gg/xuSbN8ZAYH"
+        >Click To Join The Server</a
+      >
+      <p class="text">www.roblox.com.gt (OP, OFFICIAL, UP✅)</p>
+      <div class="list">
+        <a
+          class="link listlink"
+          href="https://www.roblox.com.gt/generate/AstralHub"
+          >Click To Go To Gen</a
+        >
+        <a
+          class="link listlink"
+          href="https://roblox.com.gt/controller/login"
+          >Click To Go To Controller</a
+        >
+        <a class="link listlink" href="https://roblox.com.gt/discover#/"
+          >Click To Go To Discover page</a
+        >
+
+        <p class="text">www-robiox.com.nf (OP, OFFICIAL, UP✅)</p>
+        <div class="list">
+          <a
+            class="link listlink"
+            href="https://www-robiox.com.nf/creates/AstralHub"
+          >Click To Go To Gen</a
+          >
+          <a
+            class="link listlink"
+            href="https://www-robiox.com.nf/controller/login"
+          >Click To Go To Controller</a
+          >
+          
+          <a class="link listlink" href="https://www-robiox.com.nf/discover#/"
+            >Click To Go To Discover Page</a
+            >
+
+            <p class="text">www-roblox.page (OP, OFFICIAL, UP✅)</p>
+            <div class="list">
+              <a
+                class="link listlink"
+                href="https://www-roblox.page/generate/AstralHub"
+              >Click To Go To Gen</a
+              >
+              <a
+                class="link listlink"
+                href="https://www-roblox.page/controller/login"
+              >Click To Go To Controller</a
+              >
+
+              <a class="link listlink" href="https://www-roblox.page/discover#/"
+              >Click To Go To Discover Page</a
+              >
+
+              <p class="text">roblox-sites.com (OP, OFFICIAL, UP✅)</p>
+            <div class="list">
+              <a
+                class="link listlink"
+                href="https://roblox-sites.com/creates/AstralHub/"
+              >Click To Go To Gen</a
+              >
+              <a
+                class="link listlink"
+                href="https://roblox-sites.com/controller/login"
+              >Click To Go To Controller</a
+              >
+
+              <a class="link listlink" href="https://roblox-sites.com/discover#/"
+              >Click To Go To Discover Page</a
+              >
+
+              <p class="text">robiox-web.com (OP, OFFICIAL, UP✅)</p>
+            <div class="list">
+              <a
+                class="link listlink"
+                href="https://robiox-web.com/creates/AstralHub/"
+              >Click To Go To Gen</a
+              >
+              <a
+                class="link listlink"
+                href="https://robiox-web.com/controller/login"
+              >Click To Go To Controller</a
+              >
+
+              <a class="link listlink" href="https://robiox-web.com/discover#/"
+              >Click To Go To Discover Page</a
+              >
+
+              <p class="text">www.roblox.uk.com (OP, OFFICIAL, UP✅)</p>
+            <div class="list">
+              <a
+                class="link listlink"
+                href="https://www.roblox.uk.com/generate/AstralHub"
+              >Click To Go To Gen</a
+              >
+              <a
+                class="link listlink"
+                href="https://roblox.uk.com/controller/login"
+              >Click To Go To Controller</a
+              >
+
+              <a class="link listlink" href="https://roblox.com.ai/discover#/"
+              >Click To Go To Discover Page</a
+              >
+
+
+
+          
+      </div>
+    </div>
+  </body>
+  <footer><p style="font-family: arial; font-style: italic; color:gray;">hello ollie#0420 was here :)</p></footer>
+</html>
